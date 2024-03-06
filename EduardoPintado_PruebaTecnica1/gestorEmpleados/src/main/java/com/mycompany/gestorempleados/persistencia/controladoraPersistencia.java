@@ -34,7 +34,7 @@ public class controladoraPersistencia {
         }
   }
    public void eliminarEmpleado(empleado emp) {
-        emp.setActivo(false); // Establecemos el empleado como inactivo en lugar de eliminarlo físicamente
+        emp.setActivo(false); // Establecemos el empleado como inactivo en lugar de eliminarlo fisicamente
         actualizarEmpleado(emp); // Actualizamos el empleado en la base de datos
     }
      public List<empleado> buscarEmpleadoPorCargo(String cargo) {
