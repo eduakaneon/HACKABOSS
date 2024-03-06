@@ -1,0 +1,8 @@
+/Users/eduardopintado/NetBeansProjects/gestorEmpleados/src/main/java/com/mycompany/gestorempleados/GestorEmpleados.java
+/Users/eduardopintado/NetBeansProjects/gestorEmpleados/src/main/java/com/mycompany/gestorempleados/persistencia/controladoraPersistencia.java
+/Users/eduardopintado/NetBeansProjects/gestorEmpleados/src/main/java/com/mycompany/gestorempleados/Controladora/Controladora.java
+/Users/eduardopintado/NetBeansProjects/gestorEmpleados/src/main/java/com/mycompany/gestorempleados/Controladora/exceptions/NonexistentEntityException.java
+/Users/eduardopintado/NetBeansProjects/gestorEmpleados/src/main/java/com/mycompany/gestorempleados/Controladora/exceptions/IllegalOrphanException.java
+/Users/eduardopintado/NetBeansProjects/gestorEmpleados/src/main/java/com/mycompany/gestorempleados/empleado/empleado.java
+/Users/eduardopintado/NetBeansProjects/gestorEmpleados/src/main/java/com/mycompany/gestorempleados/Controladora/empleadoJpaController1.java
+/Users/eduardopintado/NetBeansProjects/gestorEmpleados/src/main/java/com/mycompany/gestorempleados/Controladora/exceptions/PreexistingEntityException.java
