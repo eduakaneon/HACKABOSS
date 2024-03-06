@@ -30,12 +30,12 @@ public class controladoraPersistencia {
             empJpa.edit(emp);
         } catch (Exception ex) {
             ex.printStackTrace();
-            // Aquí maneja la excepción adecuadamente, por ejemplo, lanzando una excepción personalizada
+            // Aquí manejamos la excepción adecuadamente, por ejemplo, lanzando una excepción personalizada
         }
   }
    public void eliminarEmpleado(empleado emp) {
-        emp.setActivo(false); // Establecer el empleado como inactivo en lugar de eliminarlo físicamente
-        actualizarEmpleado(emp); // Actualizar el empleado en la base de datos
+        emp.setActivo(false); // Establecemos el empleado como inactivo en lugar de eliminarlo físicamente
+        actualizarEmpleado(emp); // Actualizamos el empleado en la base de datos
     }
      public List<empleado> buscarEmpleadoPorCargo(String cargo) {
         return empJpa.buscarPorCargo(cargo);
