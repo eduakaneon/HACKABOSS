@@ -1,9 +1,0 @@
-com/mycompany/gestorempleados/Controladora/exceptions/IllegalOrphanException.class
-com/mycompany/gestorempleados/Controladora/exceptions/NonexistentEntityException.class
-com/mycompany/gestorempleados/persistencia/controladoraPersistencia.class
-com/mycompany/gestorempleados/empleado/empleado.class
-com/mycompany/gestorempleados/Controladora/Controladora.class
-com/mycompany/gestorempleados/empleado/empleado_.class
-com/mycompany/gestorempleados/GestorEmpleados.class
-com/mycompany/gestorempleados/Controladora/empleadoJpaController1.class
-com/mycompany/gestorempleados/Controladora/exceptions/PreexistingEntityException.class
